@@ -12,3 +12,4 @@ polybar topbar-center -r -c ~/.config/polybar/Multipart/config.ini &
 polybar topbar-right -r -c ~/.config/polybar/Multipart/config.ini &
 polybar topbar-beast -r -c ~/.config/polybar/Multipart/config.ini &
 polybar topbar-tray -r -c ~/.config/polybar/Multipart/config.ini &
+polybar container -r -c ~/.config/polybar/Multipart/container/container.ini &
