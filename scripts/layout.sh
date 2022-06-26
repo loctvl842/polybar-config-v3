@@ -1,6 +1,6 @@
 layout=$(bspc query -T -d | jq -r .layout)
 if [[ $layout == "tiled" ]]; then
-	echo ""
+	echo ""
 else
-	echo $layout
+	echo ""
 fi
